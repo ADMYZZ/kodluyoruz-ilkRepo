@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kodluyoruz İlk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Java ile backend web development eğitimleri için oluşturduğum ilk repodur.
@@ -32,7 +31,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## Licence
 
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
-# kodluyoruz-ilkRepo
-Kodluyoruz Java eğitimi kapsamında açtığım ilk repo
->>>>>>> 9b7ed0b842d13300b2aefe9ef541675f83e8fa28
